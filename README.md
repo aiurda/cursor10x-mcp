@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/aiurda-cursor10x-mcp-badge.png)](https://mseep.ai/app/aiurda-cursor10x-mcp)
+
 ![DevContext - The Next Evolution in AI Development Context](https://i.postimg.cc/sghKLKf6/Dev-Context-banner.png)
 
 <div align="center">
